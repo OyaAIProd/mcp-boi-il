@@ -1,5 +1,6 @@
 # mcp-boi-il
 
+[![SafeSkill 97/100](https://img.shields.io/badge/SafeSkill-97%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/pipeworx-io-mcp-boi-il)
 Bank of Israel public API MCP. Keyless.
 
 Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 250+ live data sources.
